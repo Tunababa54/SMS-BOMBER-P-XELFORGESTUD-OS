@@ -1,6 +1,65 @@
-MIT License
+MIT LİSANSI
 
-Copyright (c) 2025 Tunababa54
+Telif Hakkı (c) 2023 PixelForge Studios
+
+Aşağıdaki şartlar çerçevesinde, bu yazılım ve ilgili dokümantasyon dosyaları ("Yazılım")
+ücretsiz olarak kullanılabilir:
+
+1. Kullanım Şartları:
+- Yazılım, ticari veya ticari olmayan her türlü projede kullanılabilir
+- Yazılım modifiye edilebilir ve dağıtılabilir
+- Yazılım patentli sistemlerde kullanılabilir
+
+2. Kısıtlamalar:
+- Yazılımın kaynak kodunda veya binary dağıtımlarında orijinal telif hakkı bildirimi 
+  ve bu lisans metni korunmalıdır
+- Yazılım "OLDUĞU GİBİ" sunulmuştur, yazarı hiçbir garanti vermez
+- Yazılımın kullanımından doğacak direkt/endirekt zararlardan yazar sorumlu tutulamaz
+
+3. İzinler:
+- Kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya satış
+- Ticari kullanım
+- Özel kullanım
+- Patent kullanımı
+- Ticari marka kullanımı
+
+4. Sorumluluk Reddi:
+BU YAZILIM TELİF HAKKI SAHİPLERİ VE KATKIDA BULUNANLAR TARAFINDAN "OLDUĞU GİBİ" SUNULMAKTA 
+VE AÇIKÇA VEYA ZIMNEN, SATILABİLİRLİK VEYA BELİRLİ BİR AMACA UYGUNLUK DAHİL ANCAK BUNLARLA 
+SINIRLI OLMAMAK ÜZERE HİÇBİR GARANTİ VERİLMEMEKTEDİR. YAZILIMIN KULLANIMINDAN DOĞAN ZARARLAR 
+VE/VEYA KAYIPLAR (VERİ KAYBI, KAR KAYBI, İŞ KESİNTİSİ VB.) KONUSUNDA YAZARLAR VE TELİF HAKKI 
+SAHİPLERİ HİÇBİR ŞEKİLDE SORUMLU TUTULAMAZ.
+
+5. Katkı Politikası:
+- Katkılarınızı göndererek bu lisans şartlarını kabul etmiş sayılırsınız
+- Gönderdiğiniz kodlar üzerinde telif hakkı iddiasında bulunamazsınız
+- Kodlarınızın kamu malı (public domain) olacağını kabul edersiniz
+
+6. Son Kullanıcı Sözleşmesi:
+Bu yazılımı kullanarak:
+- Yazılımın kötü amaçlarla kullanılmayacağını
+- Yazılımın yasalara aykırı şekilde dağıtılmayacağını
+- Yazılımın orijinal lisans metniyle birlikte dağıtılacağını
+taahhüt etmiş sayılırsınız.
+
+7. Yasal Uyarı:
+Bu yazılımın kötüye kullanımından doğacak hukuki sorumluluk tamamen kullanıcıya aittir.
+Yazılım yalnızca eğitim ve güvenlik testleri amaçlıdır.
+
+8. Fesih:
+Bu lisans şartlarını ihlal etmeniz durumunda, lisans haklarınız otomatik olarak sona erecektir.
+
+9. Uygulanabilirlik:
+Bu lisans Türkiye Cumhuriyeti yasalarına tabidir.
+
+10. İletişim:
+Lisansla ilgili sorularınız için: tasgurtuna5461@gmail.com
+
+---
+
+MIT LICENSE
+
+Copyright (c) 2023 PixelForge Studios
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
